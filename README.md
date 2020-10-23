@@ -14,7 +14,7 @@ In `index.js`, write a constructor function called `BoardMember` that sets the f
 Add following methods to the class:
 - `veto` — returns `No, I must disagree`
 
-- `approve` — returns `You can do that!`
+- `approve` — returns `You can do that!` 
 
 - `doCharity` — returns `I like to help people.`
 
